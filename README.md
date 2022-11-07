@@ -1,6 +1,6 @@
 # My Mastodon accounts
 
-###### [fosostodon.org](https://fostodon.org)
+###### [fosstodon.org](https://fosstodon.org)
 
 [@yielding@fosstodon.org](https://fosstodon.org/web/@yielding) | For my Free & Open Source Projects
 
